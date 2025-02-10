@@ -30,10 +30,7 @@ Passionate about AI and app development. My coding projects not only serve as le
 
 📧 Email: [sebasreyes20031@gmail.com](mailto:sebasreyes20031@gmail.com)
 
---- 
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/sebasreyes20031) 
 
 
           
