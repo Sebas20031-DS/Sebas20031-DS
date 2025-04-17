@@ -29,10 +29,13 @@ My main interests are artificial intelligence, software development, and quantit
 
 ## Contact Me 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas20031-ds)
-https://linkedin.com/in/sebas20031-ds
+📞 +593 996253855
 
-📧: [sebasreyes20031@gmail.com](mailto:sebasreyes20031@gmail.com)
+📧 sebasreyes20031@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas20031-ds)
+
+
 
 
 
