@@ -6,9 +6,7 @@
 
 🎓 I'm a **Data Science student** expected to graduate in **July 2026**.  
 
-I specialize in **data analysis, report automation, and artificial intelligence**. My work focuses on **quantitative analysis, predictive modeling, and financial applications**.  
-
-Currently, I am expanding my expertise in **data-driven decision-making** and **business intelligence solutions**.  
+My main interests are artificial intelligence, software development, and quantitative finance. I focus on predictive modeling, algorithmic trading, and building data-driven applications.
 
 ---
 ---
